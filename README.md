@@ -1,5 +1,4 @@
 # GamePlan---An-Android-App
-This is the android app created as a project for the class Software Engineering 1 - CSE 5324 at UTA
 
 GamePlan is an innovative Android application designed to revolutionize the
 scheduling and administration of sports venues and events. It addresses the

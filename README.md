@@ -1,4 +1,4 @@
-# GamePlan---An-Android-App
+# GamePlan - Sports Event Management App
 
 GamePlan is an innovative Android application designed to revolutionize the
 scheduling and administration of sports venues and events. It addresses the
